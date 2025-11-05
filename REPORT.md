@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller flera av kraven för betyg G, såsom korrekt användning av router och styling via Tailwind CSS, samt har använt en custom hook för att hämta data, vilket är ett VG-krav.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Tekniskt fel vid AI-analys. Kontrollera manuellt.
 
 💡 **Förbättringsförslag:**  
-Verifiera implementationsdetaljer för context, reducers och hantering av trasiga bild-länkar. Säkerställ att alla aspekter av djurens status och animeringar är fullt implementerade för att uppnå VG.
+Automatisk rättning med AI-assistant misslyckades. Vänligen kontrollera koden manuellt.
