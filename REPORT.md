@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-eliasahmdi
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Samtliga krav för både G och VG är uppfyllda. Koden är välstrukturerad, använder sig effektivt av moderna React-koncept och har genomgående bra felhantering.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G enligt uppgiftens specifikationer. Koden är organiserad och funktionaliteten är korrekt implementerad, inklusive routing, djurmatning och hantering av trasiga bildlänkar. Dock saknas några av de mer avancerade funktionerna som krävs för VG, såsom användning av context och reducers för state-hantering samt custom hooks för datahämtning.
 
 💡 **Förbättringsförslag:**  
-Förbättra läsbarheten med fler kommentarer och överväg ytterligare förbättring av användarupplevelsen med mer detaljerade felmeddelanden.
+För att nå VG bör studenten implementera context och reducers för att hantera state mer effektivt. Användning av en custom hook eller tjänster för datahämtning skulle förbättra kodens modularitet. Dessutom kan subtila animeringar och förbättrad felhantering ytterligare höja användarupplevelsen och kodkvaliteten. Att lägga till fler kommentarer för att förklara komplex logik och säkerställa konsekventa naming conventions skulle också vara fördelaktigt.
